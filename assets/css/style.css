@@ -10,7 +10,7 @@ body {
     
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -26,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header-links {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -57,13 +57,13 @@ body {
     background-position: center;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.market-tiles {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,7 +92,7 @@ body {
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -103,7 +103,7 @@ body {
     background-color: #2589bd;
 }
 
-.bene-head {
+article {
     margin-bottom: 32px;
     color: #ffffff;
     margin-bottom: 10px;
@@ -116,7 +116,7 @@ body {
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
